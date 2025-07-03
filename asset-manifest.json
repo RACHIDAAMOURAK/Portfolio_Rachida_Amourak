@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Rachida_Amourak/static/css/main.44fa2eac.css",
+    "main.js": "/Portfolio_Rachida_Amourak/static/js/main.c0aaec45.js",
+    "static/js/453.5d79306b.chunk.js": "/Portfolio_Rachida_Amourak/static/js/453.5d79306b.chunk.js",
+    "static/media/about.png": "/Portfolio_Rachida_Amourak/static/media/about.e7c350a9849c1666de2d.png",
+    "static/media/bank.png": "/Portfolio_Rachida_Amourak/static/media/bank.063afa1b5f3e73510a61.png",
+    "static/media/background-img.png": "/Portfolio_Rachida_Amourak/static/media/background-img.c10be9f34cb5df0eefcc.png",
+    "static/media/emotion.png": "/Portfolio_Rachida_Amourak/static/media/emotion.c5879ee509f4572b1265.png",
+    "static/media/CV Rachida Amourak.pdf": "/Portfolio_Rachida_Amourak/static/media/CV Rachida Amourak.377ce00139fc323db05b.pdf",
+    "static/media/weatherC++.png": "/Portfolio_Rachida_Amourak/static/media/weatherC++.35625c318daad8b46255.png",
+    "static/media/suicide.png": "/Portfolio_Rachida_Amourak/static/media/suicide.9e892d6c382b421336a0.png",
+    "static/media/myPhoto.jpg": "/Portfolio_Rachida_Amourak/static/media/myPhoto.534cf392e9985b0196fe.jpg",
+    "static/media/weather.png": "/Portfolio_Rachida_Amourak/static/media/weather.aeddc04160fd1c46d7f9.png",
+    "static/media/e-services.png": "/Portfolio_Rachida_Amourak/static/media/e-services.4afbb497d6c09929a009.png",
+    "static/media/logo.png": "/Portfolio_Rachida_Amourak/static/media/logo.59ecfab556ad90597458.png",
+    "static/media/pre.svg": "/Portfolio_Rachida_Amourak/static/media/pre.615d6a622b3906b3537c.svg",
+    "index.html": "/Portfolio_Rachida_Amourak/index.html",
+    "main.44fa2eac.css.map": "/Portfolio_Rachida_Amourak/static/css/main.44fa2eac.css.map",
+    "main.c0aaec45.js.map": "/Portfolio_Rachida_Amourak/static/js/main.c0aaec45.js.map",
+    "453.5d79306b.chunk.js.map": "/Portfolio_Rachida_Amourak/static/js/453.5d79306b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fa2eac.css",
+    "static/js/main.c0aaec45.js"
+  ]
+}
