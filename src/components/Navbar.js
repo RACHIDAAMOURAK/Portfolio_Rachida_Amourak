@@ -95,7 +95,7 @@ function NavBar() {
           
             <Nav.Item className="fork-btn">
               <Button
-                href="#"//normalement on fait le lien vers le code de source de portfolio
+                href="https://github.com/RACHIDAAMOURAK/Portfolio_Rachida_Amourak"
                 target="_blank"
                 className="fork-btn-inner"
               >
