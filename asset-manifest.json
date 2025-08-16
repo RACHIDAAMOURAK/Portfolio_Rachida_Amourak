@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio_Rachida_Amourak/static/css/main.44fa2eac.css",
-    "main.js": "/Portfolio_Rachida_Amourak/static/js/main.d9736b10.js",
+    "main.js": "/Portfolio_Rachida_Amourak/static/js/main.5ad0ab88.js",
     "static/js/453.5d79306b.chunk.js": "/Portfolio_Rachida_Amourak/static/js/453.5d79306b.chunk.js",
     "static/media/about.png": "/Portfolio_Rachida_Amourak/static/media/about.e7c350a9849c1666de2d.png",
+    "static/media/rdvproject.png": "/Portfolio_Rachida_Amourak/static/media/rdvproject.fc97d5e958b9754fbc37.png",
     "static/media/bank.png": "/Portfolio_Rachida_Amourak/static/media/bank.063afa1b5f3e73510a61.png",
     "static/media/background-img.png": "/Portfolio_Rachida_Amourak/static/media/background-img.c10be9f34cb5df0eefcc.png",
     "static/media/CV Rachida Amourak.pdf": "/Portfolio_Rachida_Amourak/static/media/CV Rachida Amourak.aaf0c54128a7f10b12ef.pdf",
@@ -15,11 +16,11 @@
     "static/media/pre.svg": "/Portfolio_Rachida_Amourak/static/media/pre.615d6a622b3906b3537c.svg",
     "index.html": "/Portfolio_Rachida_Amourak/index.html",
     "main.44fa2eac.css.map": "/Portfolio_Rachida_Amourak/static/css/main.44fa2eac.css.map",
-    "main.d9736b10.js.map": "/Portfolio_Rachida_Amourak/static/js/main.d9736b10.js.map",
+    "main.5ad0ab88.js.map": "/Portfolio_Rachida_Amourak/static/js/main.5ad0ab88.js.map",
     "453.5d79306b.chunk.js.map": "/Portfolio_Rachida_Amourak/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44fa2eac.css",
-    "static/js/main.d9736b10.js"
+    "static/js/main.5ad0ab88.js"
   ]
 }
