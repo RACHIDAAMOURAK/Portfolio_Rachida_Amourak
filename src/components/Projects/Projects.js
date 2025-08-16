@@ -6,6 +6,7 @@ import WEATHER from "../../Assets/Projects/weatherC++.png";
 import university from "../../Assets/Projects/e-services.png";
 import weather from "../../Assets/Projects/weather.png";
 import bank from "../../Assets/Projects/bank.png";
+import RDV from "../../Assets/Projects/rdvproject.png";
 
 function Projects() {
   return (
@@ -61,6 +62,18 @@ function Projects() {
               description="Development of a Weather application using C++, Qt, and SQLite."
               ghLink="https://github.com/RACHIDAAMOURAK/WeatherAppQt"
               demoLink="https://drive.google.com/file/d/1CRaNFhWgE8y4tB78rRi6DB-IDwOgDHuK/view?usp=sharing"
+
+              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={RDV}
+              isBlog={false}
+              title="Medical Appointment management Application🏥"
+              description="Development of a medical appointment management application, carried out during an internship at the University Hospital Center (CHU) of Fez, enabling patients to manage their appointments, doctors to organize their schedules, and the administrator to ensure the overall management of the system."
+              ghLink="https://github.com/RACHIDAAMOURAK/stage_project_gestion_rendez_vous_chu"
+              demoLink="https://drive.google.com/file/d/1nXmToYG1iVaJEwbjk7i3K-t5yv5Ppagn/view?usp=sharing"
 
               
             />
