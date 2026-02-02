@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio_Rachida_Amourak/static/css/main.44fa2eac.css",
-    "main.js": "/Portfolio_Rachida_Amourak/static/js/main.c1cd7213.js",
+    "main.js": "/Portfolio_Rachida_Amourak/static/js/main.0c49a778.js",
     "static/js/453.5d79306b.chunk.js": "/Portfolio_Rachida_Amourak/static/js/453.5d79306b.chunk.js",
     "static/media/about.png": "/Portfolio_Rachida_Amourak/static/media/about.e7c350a9849c1666de2d.png",
     "static/media/rdvproject.png": "/Portfolio_Rachida_Amourak/static/media/rdvproject.fc97d5e958b9754fbc37.png",
     "static/media/bank.png": "/Portfolio_Rachida_Amourak/static/media/bank.063afa1b5f3e73510a61.png",
     "static/media/background-img.png": "/Portfolio_Rachida_Amourak/static/media/background-img.c10be9f34cb5df0eefcc.png",
-    "static/media/CV Rachida Amourak.pdf": "/Portfolio_Rachida_Amourak/static/media/CV Rachida Amourak.aaf0c54128a7f10b12ef.pdf",
     "static/media/weatherC++.png": "/Portfolio_Rachida_Amourak/static/media/weatherC++.35625c318daad8b46255.png",
+    "static/media/CV Rachida Amourak.pdf": "/Portfolio_Rachida_Amourak/static/media/CV Rachida Amourak.b8675741de86fed37b29.pdf",
     "static/media/myPhoto.jpg": "/Portfolio_Rachida_Amourak/static/media/myPhoto.534cf392e9985b0196fe.jpg",
     "static/media/weather.png": "/Portfolio_Rachida_Amourak/static/media/weather.aeddc04160fd1c46d7f9.png",
     "static/media/e-services.png": "/Portfolio_Rachida_Amourak/static/media/e-services.4afbb497d6c09929a009.png",
-    "static/media/logo.png": "/Portfolio_Rachida_Amourak/static/media/logo.59ecfab556ad90597458.png",
     "static/media/pre.svg": "/Portfolio_Rachida_Amourak/static/media/pre.615d6a622b3906b3537c.svg",
     "index.html": "/Portfolio_Rachida_Amourak/index.html",
     "main.44fa2eac.css.map": "/Portfolio_Rachida_Amourak/static/css/main.44fa2eac.css.map",
-    "main.c1cd7213.js.map": "/Portfolio_Rachida_Amourak/static/js/main.c1cd7213.js.map",
+    "main.0c49a778.js.map": "/Portfolio_Rachida_Amourak/static/js/main.0c49a778.js.map",
     "453.5d79306b.chunk.js.map": "/Portfolio_Rachida_Amourak/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44fa2eac.css",
-    "static/js/main.c1cd7213.js"
+    "static/js/main.0c49a778.js"
   ]
 }
