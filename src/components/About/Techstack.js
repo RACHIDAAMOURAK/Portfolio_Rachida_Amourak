@@ -36,7 +36,9 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <CgCPlusPlus />
       </Col>
-      
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
+      </Col>  
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
       </Col>
@@ -67,7 +69,12 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiDatabase />
       </Col>
-      
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostgresql />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
