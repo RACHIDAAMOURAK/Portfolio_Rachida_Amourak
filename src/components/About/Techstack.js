@@ -85,6 +85,21 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>  
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDocker />
+      </Col>  
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFlask />
+      </Col> 
+      <Col xs={4} md={2} className="tech-icons">
+        <DiHtml53DEffects />
+      </Col> 
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNextdotjs />
+      </Col> 
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSolidity />
+      </Col> 
     </Row>
   );
 }
